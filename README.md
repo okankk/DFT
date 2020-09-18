@@ -1,1 +1,1 @@
-# DFT
+# Discrete Fourier Transform
