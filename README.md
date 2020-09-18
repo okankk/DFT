@@ -42,4 +42,4 @@ Output of the program is a text file that contains the result of the DFT. Output
 -2.000000, -0.000000
 -2.000000, -2.000000
 ```
-Left hand side of the comma is Real part and right hand side of the comma is Imaginary part.
+Left hand side of the comma is Real part and right hand side of the comma is Imaginary part. Results and it's derivations given above can be found via the report in repo.
