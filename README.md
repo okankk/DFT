@@ -38,5 +38,4 @@ Output of the program is a text file that contains the result of the DFT. Output
 -2.000000, 2.000000
 -2.000000, -0.000000
 -2.000000, -2.000000
-
 ```
